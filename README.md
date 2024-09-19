@@ -28,6 +28,6 @@ Statistical Tests for Distribution:
 Calculated skewness and kurtosis to analyze the distribution characteristics.
 Equality of Variance:
 Performed Levene’s test to check for equality of variances between groups.
-Inferences and Conclusions:
 
+Inferences and Conclusions:
 Summarized findings from the analysis, including insights from hypothesis testing and assumption checks.
