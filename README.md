@@ -17,19 +17,21 @@ Establishing Relationships Between Variables:
   
 Correlation Analysis:
 
-*Investigated the correlation between weekends and bike bookings.
+* Investigated the correlation between weekends and bike bookings.
 
 Significant Differences Analysis:
 * Checked for significant differences in bike rides across different variables.
 
 Assumption Checks for Statistical Tests:
-Normality Assessment:
-Used histogram plots and Q-Q plots to visually assess normality.
-Conducted Shapiro-Wilk’s test to statistically evaluate normality.
+*Normality Assessment:
+    Used histogram plots and Q-Q plots to visually assess normality.
+    Conducted Shapiro-Wilk’s test to statistically evaluate normality.
+    
 Statistical Tests for Distribution:
-Calculated skewness and kurtosis to analyze the distribution characteristics.
+* Calculated skewness and kurtosis to analyze the distribution characteristics.
+* 
 Equality of Variance:
-Performed Levene’s test to check for equality of variances between groups.
+* Performed Levene’s test to check for equality of variances between groups.
 
 Inferences and Conclusions:
 Summarized findings from the analysis, including insights from hypothesis testing and assumption checks.
